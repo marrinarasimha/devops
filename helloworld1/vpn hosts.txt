@@ -1,0 +1,56 @@
+148.185.168.78  svn.cwigintra.com
+148.185.168.105                cwicisas025.cwihq.cwigintra.com
+148.185.168.104 cwicisdb001.cwihq.cwigintra.com
+148.185.168.103 cwicisas023.cwihq.cwigintra.com
+148.185.168.67  liberate.cwihq.cwigintra.com
+127.0.0.1              portal.jam.time4lime.com
+127.0.0.1              portal.sso.lime.com
+#10.197.64.45       cwihqas002
+148.185.168.105        cwicisas025.cwihq.cwigintra.com
+148.185.168.104 cwicisdb001.cwihq.cwigintra.com
+148.185.168.103 cwicisas023.cwihq.cwigintra.com
+148.185.168.67  liberate.cwihq.cwigintra.com
+172.21.73.78 sonarliberate.cwigintra.com
+172.21.73.78 liberatebuild.cwigintra.com
+172.21.73.78 binaries.cwigintra.com
+172.21.73.78 graphite.cwigintra.com
+172.21.73.78 fisheye.cwigintra.com
+172.21.73.78 jira.cwigintra.com
+172.21.73.78 graylog.cwigintra.com
+172.21.73.78 build.cwigintra.com
+172.21.73.78 sonar.cwigintra.com
+172.21.73.78 ftp.cwigintra.com
+172.21.73.78 docs.cwigintra.com
+10.255.218.99 docs.cwc-apps.com
+172.21.73.78 limelogs.cwigintra.com
+172.21.73.78 panlogs.cwigintra.com
+172.21.73.78 svn.cwigintra.com
+172.21.73.78 deploy.cwigintra.com
+172.21.73.73 cwclilas006.cwihq.cwigintra.com
+172.21.73.78 cwicisrh022.cwihq.cwigintra.com
+172.21.73.85 qms.cwigintra.com
+172.21.76.6 cwc-vdi-connect.cwihq.cwigintra.com
+172.21.72.26 cwihqas002
+192.168.200.11 jidoshilistenerservice_test.dhiraagu.com.mv
+172.21.73.84 cwihqas002
+10.255.252.109 bssstash.corp-it.cc
+10.255.252.110 bssbamboo.corp-it.cc
+10.140.38.150 172.21.73.88
+172.21.6.124      portal.ang.lime.com  cwtsapplcpl01
+172.21.6.124      portal.bar.lime.com  cwtsapplcpl01
+172.21.6.124      portal.bvi.lime.com  cwtsapplcpl01
+172.21.6.124      portal.cay.lime.com  cwtsapplcpl01
+172.21.6.124      portal.tki.lime.com  cwtsapplcpl01
+172.21.6.124      portal.mon.lime.com  cwtsapplcpl01
+172.21.6.124      portal.ant.lime.com  cwtsapplcpl01
+172.21.6.124      portal.gnd.lime.com  cwtsapplcpl01
+172.21.6.124      portal.dom.lime.com  cwtsapplcpl01
+172.21.6.124      portal.skn.lime.com  cwtsapplcpl01
+172.21.6.124      portal.slu.lime.com  cwtsapplcpl01
+172.21.6.124      portal.svg.lime.com  cwtsapplcpl01
+172.21.6.123       uat-iservice.cwc-apps.com
+10.255.230.69     discoverflow.co
+127.0.0.1    
+127.0.0.1         portal.sso.lime.com
+#172.21.6.124  portal.jam.lime.com
+#172.21.6.124  portal.sso.lime.com 
